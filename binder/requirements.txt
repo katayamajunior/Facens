@@ -1,0 +1,43 @@
+###############################################################
+#          jupyter/jupyterlab extensions/kernels              #
+###############################################################
+# beakerx (kernels: java, clojure, groovy, scala, kotlin, sql) and dependencies
+# beakerx
+# py4j
+
+# sos - script of scripts (multiple kernels)
+# sos
+# sos-notebook
+
+#jupyter/jupyterlab extensions
+# jupyterlab
+# jupyterlab-git
+# RISE
+
+# jupyter-server-proxy
+
+###############################################################
+#          /jupyter/jupyterlab extensions/kernels             #
+###############################################################
+
+
+# data 
+pandas
+numpy
+
+# data management/versioning
+# quilt
+
+# http tools
+requests
+
+# data viz
+matplotlib
+seaborn
+bs4
+bokeh
+plotly
+ipywidgets
+
+# machine learning
+scikit-learn
