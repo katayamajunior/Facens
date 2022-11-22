@@ -9,8 +9,8 @@
 # sos
 # sos-notebook
 
-jupyter/jupyterlab extensions
-# jupyterlab
+#jupyter/jupyterlab extensions
+jupyterlab
 # jupyterlab-git
 # RISE
 
