@@ -9,7 +9,7 @@
 # sos
 # sos-notebook
 
-#jupyter/jupyterlab extensions
+jupyter/jupyterlab extensions
 # jupyterlab
 # jupyterlab-git
 # RISE
@@ -42,5 +42,3 @@ ipywidgets
 # machine learning
 scikit-learn
 
-jupyterlab_voyager
-labextension
