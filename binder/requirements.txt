@@ -41,3 +41,7 @@ ipywidgets
 
 # machine learning
 scikit-learn
+
+jupyterlab_voyager
+labextension
+jupyter labextension install jupyterlab_voyager
